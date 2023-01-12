@@ -5,6 +5,7 @@ This repository consists of C projects done during college.
 
 
 Here is the list of porjects with small description
+
 1 - Monster Finder
     Read input from a file and creates virtual regions with certain numbers of monsters
     Calculates how many monsters can an user find depending on various arguments
